@@ -1,2 +1,2 @@
-# Pysical layer
+# Physical layer
 - MLT-3
